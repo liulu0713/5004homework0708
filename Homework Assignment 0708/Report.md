@@ -10,6 +10,7 @@ code as it is meant to help you understand some of the concepts.
 Model represents the application's data and the logic governing that data.
 
 2. Describe the purpose of a controller in the MVC architecture. What is the controller responsible for? What are some examples of what might be included in a controller?
+
 Controller acts as the intermediary between the User, the Model, and the View.
 
 3. Describe the word serialization, and how it relates to 'data-binding' in Jackson. What is the purpose of serialization? What is the purpose of data-binding? What is the relationship between the two?
