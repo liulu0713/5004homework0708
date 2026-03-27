@@ -1,0 +1,28 @@
+[ {
+  "hostname" : "www.github.com",
+  "ip" : "140.82.112.3",
+  "city" : "San Francisco",
+  "region" : "California",
+  "country" : "US",
+  "postal" : "94110",
+  "latitude" : 37.7509,
+  "longitude" : -122.4153
+}, {
+  "hostname" : "www.northeastern.edu",
+  "ip" : "23.194.127.178",
+  "city" : "Englewood",
+  "region" : "Colorado",
+  "country" : "US",
+  "postal" : "80110",
+  "latitude" : 39.6463,
+  "longitude" : -105.0092
+}, {
+  "hostname" : "www.google.com",
+  "ip" : "142.250.69.228",
+  "city" : "Plainview",
+  "region" : "New York",
+  "country" : "US",
+  "postal" : "11803",
+  "latitude" : 40.7746,
+  "longitude" : -73.4761
+} ]

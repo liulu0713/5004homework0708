@@ -1,0 +1,15 @@
+www.github.com
+             IP: 140.82.112.3
+       Location: San Francisco, California, US, 94110
+    Coordinates: 37.7509, -122.4153
+
+www.northeastern.edu
+             IP: 23.194.127.178
+       Location: Englewood, Colorado, US, 80110
+    Coordinates: 39.6463, -105.0092
+
+www.google.com
+             IP: 142.250.69.228
+       Location: Plainview, New York, US, 11803
+    Coordinates: 40.7746, -73.4761
+

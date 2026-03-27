@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNetUtils" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-03-04T05:45:31" hostname="primbos-MacBook-Pro.local" time="1.693">
+  <properties/>
+  <testcase name="testLookUpIpValid()" classname="TestNetUtils" time="0.01"/>
+  <testcase name="testGetIpDetailsJson()" classname="TestNetUtils" time="0.255"/>
+  <testcase name="testGetApiUrlDefaultXml()" classname="TestNetUtils" time="0.001"/>
+  <testcase name="testGetApiUrlJson()" classname="TestNetUtils" time="0.001"/>
+  <testcase name="testGetUrlContents()" classname="TestNetUtils" time="0.107"/>
+  <testcase name="testGetApiUrlCsv()" classname="TestNetUtils" time="0.0"/>
+  <testcase name="testGetIpDetails()" classname="TestNetUtils" time="0.075"/>
+  <testcase name="testLookUpIpInvalid()" classname="TestNetUtils" time="1.24"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Failed to connect to https://ipapi.co/142.250.72.78/json/
+Warning: testGetIpDetailsJson got empty response (rate limited?)
+]]></system-err>
+</testsuite>

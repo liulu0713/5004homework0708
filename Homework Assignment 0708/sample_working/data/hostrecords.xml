@@ -1,0 +1,32 @@
+<domainList>
+  <domain>
+    <hostname>www.github.com</hostname>
+    <ip>140.82.112.3</ip>
+    <city>San Francisco</city>
+    <region>California</region>
+    <country>US</country>
+    <postal>94110</postal>
+    <latitude>37.7509</latitude>
+    <longitude>-122.4153</longitude>
+  </domain>
+  <domain>
+    <hostname>www.northeastern.edu</hostname>
+    <ip>23.194.127.178</ip>
+    <city>Englewood</city>
+    <region>Colorado</region>
+    <country>US</country>
+    <postal>80110</postal>
+    <latitude>39.6463</latitude>
+    <longitude>-105.0092</longitude>
+  </domain>
+  <domain>
+    <hostname>www.google.com</hostname>
+    <ip>142.250.69.228</ip>
+    <city>Plainview</city>
+    <region>New York</region>
+    <country>US</country>
+    <postal>11803</postal>
+    <latitude>40.7746</latitude>
+    <longitude>-73.4761</longitude>
+  </domain>
+</domainList>
